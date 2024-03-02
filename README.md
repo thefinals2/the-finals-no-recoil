@@ -13,7 +13,7 @@
 </h1>
 
 # The-Finals-No-Recoil
-
+Have zero recoil in the finals game for light, medium, heavy build guns. The software which keeps you safe and makes your gun zero recoil.
 
 # Watch the below video for more Information
 https://vimeo.com/911798188
